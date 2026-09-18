@@ -1,4 +1,4 @@
-# Aplikasi Catatan Tugas (To-Do List)
+# Aplikasi Catatan Tugas
 
 Aplikasi web manajemen tugas sederhana berbasis **PHP Native** dan **MySQL** untuk mencatat, memantau, dan mengelola daftar tugas harian berdasarkan tingkat prioritas.
 
