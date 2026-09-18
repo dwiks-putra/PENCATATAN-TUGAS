@@ -1,0 +1,14 @@
+# Abaikan file konfigurasi OS bawaan
+.DS_Store
+Thumbs.db
+
+# Abaikan folder/file setting editor
+.vscode/
+.idea/
+
+# Abaikan file log & temporary
+*.log
+*.tmp
+
+# (Opsional) Jika ada file kredensial/koneksi privat di masa mendatang
+# config.local.php
